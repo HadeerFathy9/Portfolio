@@ -1,0 +1,5 @@
+# Local tooling
+.claude/
+
+# Source CV files contain private contact details (phone number)
+Hadeer_Fathy_CV.*
